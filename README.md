@@ -8,30 +8,39 @@
 
 ## 🧰 Tech Stack
 
-### 🚀 Frontend
-![React](https://skillicons.dev/icons?i=react)
-![Angular](https://skillicons.dev/icons?i=angular)
+### 💻 Languages
+![JavaScript](https://skillicons.dev/icons?i=js)
 ![Typescript](https://skillicons.dev/icons?i=ts)
-![Javascript](https://skillicons.dev/icons?i=js)
-
-### ⚙️ Backend
-![Express](https://skillicons.dev/icons?i=express)
-![Laravel](https://skillicons.dev/icons?i=laravel)
-![Symfony](https://skillicons.dev/icons?i=symfony)
+![Java](https://skillicons.dev/icons?i=java)
+![Python](https://skillicons.dev/icons?i=python)
+![C](https://skillicons.dev/icons?i=c)
+![C++](https://skillicons.dev/icons?i=cpp)
 ![PHP](https://skillicons.dev/icons?i=php)
+![HTML](https://skillicons.dev/icons?i=html)
+![CSS](https://skillicons.dev/icons?i=css)
+
+---
 
 ### 🗄️ Databases
 ![MySQL](https://skillicons.dev/icons?i=mysql)
+![PostgreSQL](https://skillicons.dev/icons?i=postgres)
 ![MongoDB](https://skillicons.dev/icons?i=mongodb)
 ![Firebase](https://skillicons.dev/icons?i=firebase)
 
-### 🔧 Programming Languages
-![Java](https://skillicons.dev/icons?i=java)
-![Python](https://skillicons.dev/icons?i=python)
-![C](https://skillicons.dev/icons?i=C)
-![C++](https://skillicons.dev/icons?i=C++)
+---
 
-### 🖥️ Tools & OS
+### 📚 Frameworks & Libraries
+![React](https://skillicons.dev/icons?i=react)
+![Angular](https://skillicons.dev/icons?i=angular)
+![Express](https://skillicons.dev/icons?i=express)
+![Laravel](https://skillicons.dev/icons?i=laravel)
+![Symfony](https://skillicons.dev/icons?i=symfony)
+![TailwindCSS](https://skillicons.dev/icons?i=tailwind)
+![Bootstrap](https://skillicons.dev/icons?i=bootstrap)
+
+---
+
+### 🛠️ Tools & OS
 ![Git](https://skillicons.dev/icons?i=git)
 ![Linux](https://skillicons.dev/icons?i=linux)
 ![VSCode](https://skillicons.dev/icons?i=vscode)
@@ -46,9 +55,8 @@
 
 ---
 
-
 ## 📫 Connect with me  
 
-📧 **Email**: ahmaneyahya10@gmail.com 
-💼 **LinkedIn**: https://www.linkedin.com/in/yahya-ahmane-5b8211321/
+📧 **Email**: ahmaneyahya10@gmail.com  
+💼 **LinkedIn**: linkedin.com/in/yahya-ahmane-5b8211321](https://www.linkedin.com/in/yahya-ahmane-5b8211321/
 
