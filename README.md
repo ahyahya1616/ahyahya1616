@@ -15,7 +15,6 @@
 ![Javascript](https://skillicons.dev/icons?i=js)
 
 ### ⚙️ Backend
-![Node.js](https://skillicons.dev/icons?i=nodejs)
 ![Express](https://skillicons.dev/icons?i=express)
 ![Laravel](https://skillicons.dev/icons?i=laravel)
 ![Symfony](https://skillicons.dev/icons?i=symfony)
