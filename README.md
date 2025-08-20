@@ -51,5 +51,5 @@
 ## 📫 Connect with me  
 
 📧 **Email**: ahmaneyahya10@gmail.com 
-💼 **LinkedIn**: [https://www.linkedin.com/in/yahya-ahmane-5b8211321/)
+💼 **LinkedIn**: https://www.linkedin.com/in/yahya-ahmane-5b8211321/
 
