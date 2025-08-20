@@ -58,5 +58,4 @@
 ## 📫 Connect with me  
 
 📧 **Email**: ahmaneyahya10@gmail.com  
-💼 **LinkedIn**: linkedin.com/in/yahya-ahmane-5b8211321](https://www.linkedin.com/in/yahya-ahmane-5b8211321/
-
+💼 **LinkedIn**: [linkedin.com/in/yahya-ahmane-5b8211321](https://www.linkedin.com/in/yahya-ahmane-5b8211321/)  
