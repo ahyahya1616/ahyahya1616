@@ -6,7 +6,6 @@
 
 ---
 
-## 🧰 Tech Stack
 
 ### 💻 Languages
 ![JavaScript](https://skillicons.dev/icons?i=js)
