@@ -5,7 +5,7 @@
 🚀 Always learning, always building.  
 
 ---
-tech stack
+
 
 ### 💻 Languages
 ![JavaScript](https://skillicons.dev/icons?i=js)
