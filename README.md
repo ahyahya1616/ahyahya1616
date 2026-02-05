@@ -1,60 +1,99 @@
-# 👋 Hi, I'm Yahya Ahmane
+<div align="center">
 
-🎓 I'm a student in **Software Engineering and Intelligent Systems** at **FST Tanger**.  
-💡 Passionate about **software engineering, AI, and full-stack development**.  
-🚀 Always learning, always building.  
+# 👨‍💻 Yahya Ahmane
+
+### Software Engineer | Full-Stack Developer | DevOps Enthusiast
+
+*Building intelligent systems & scalable solutions*
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yahya-ahmane-5b8211321/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmaneyahya10@gmail.com)
+
+</div>
 
 ---
 
+## 🎓 About Me
 
-### 💻 Languages
+> Student in **Software Engineering and Intelligent Systems** at **FST Tanger**
+
+I'm passionate about crafting elegant solutions to complex problems. My journey spans from building intelligent AI systems to architecting scalable cloud-native applications. I believe in continuous learning and turning ideas into impactful software.
+
+- 🔭 Currently exploring **Kubernetes orchestration** and **microservices architecture**
+- 🌱 Diving deep into **DevOps practices** and **CI/CD pipelines**
+- 💡 Interested in **AI/ML**, **distributed systems**, and **cloud computing**
+- 🎯 Goal: Contributing to open-source projects and building production-grade applications
+
+---
+
+## 🛠️ Tech Stack
+
+### **Languages**
 ![JavaScript](https://skillicons.dev/icons?i=js)
-![Typescript](https://skillicons.dev/icons?i=ts)
+![TypeScript](https://skillicons.dev/icons?i=ts)
 ![Java](https://skillicons.dev/icons?i=java)
 ![Python](https://skillicons.dev/icons?i=python)
 ![C](https://skillicons.dev/icons?i=c)
 ![C++](https://skillicons.dev/icons?i=cpp)
 ![PHP](https://skillicons.dev/icons?i=php)
-![HTML](https://skillicons.dev/icons?i=html)
-![CSS](https://skillicons.dev/icons?i=css)
 
----
+### **Frontend Development**
+![React](https://skillicons.dev/icons?i=react)
+![Angular](https://skillicons.dev/icons?i=angular)
+![Next](https://skillicons.dev/icons?i=nextjs)
 
-### 🗄️ Databases
+### **Backend Development**
+![Spring Boot](https://skillicons.dev/icons?i=spring)
+![Express](https://skillicons.dev/icons?i=express)
+![Laravel](https://skillicons.dev/icons?i=laravel)
+![Symfony](https://skillicons.dev/icons?i=symfony)
+
+### **Databases**
 ![MySQL](https://skillicons.dev/icons?i=mysql)
 ![PostgreSQL](https://skillicons.dev/icons?i=postgres)
 ![MongoDB](https://skillicons.dev/icons?i=mongodb)
 ![Firebase](https://skillicons.dev/icons?i=firebase)
 
----
-
-### 📚 Frameworks & Libraries
-![React](https://skillicons.dev/icons?i=react)
-![Angular](https://skillicons.dev/icons?i=angular)
-![Express](https://skillicons.dev/icons?i=express)
-![Laravel](https://skillicons.dev/icons?i=laravel)
-![Symfony](https://skillicons.dev/icons?i=symfony)
-![TailwindCSS](https://skillicons.dev/icons?i=tailwind)
-![Bootstrap](https://skillicons.dev/icons?i=bootstrap)
-
----
-
-### 🛠️ Tools & OS
+### **DevOps & Cloud**
+![Kubernetes](https://skillicons.dev/icons?i=kubernetes)
+![Docker](https://skillicons.dev/icons?i=docker)
+![Jenkins](https://skillicons.dev/icons?i=jenkins)
 ![Git](https://skillicons.dev/icons?i=git)
 ![Linux](https://skillicons.dev/icons?i=linux)
-![VSCode](https://skillicons.dev/icons?i=vscode)
+
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
-![Yahya's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahyahya1616&show_icons=true&theme=radical)
+<div align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahyahya1616&layout=compact&theme=radical)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ahyahya1616&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ahyahya1616&theme=tokyonight&utcOffset=1)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahyahya1616&theme=tokyonight)
+
+</div>
 
 ---
 
-## 📫 Connect with me  
+## 🚀 What I'm Working On
 
-📧 **Email**: ahmaneyahya10@gmail.com  
-💼 **LinkedIn**: [linkedin.com/in/yahya-ahmane-5b8211321](https://www.linkedin.com/in/yahya-ahmane-5b8211321/)  
+- 🔨 Building microservices with **Spring Boot** and **Kubernetes**
+- 🔐 Implementing security best practices
+- 📦 Setting up **CI/CD pipelines** with **Jenkins** and **SonarQube**
+
+---
+
+## 💬 Let's Connect
+
+
+📧 **Email:** ahmaneyahya10@gmail.com  
+💼 **LinkedIn:** [linkedin.com/in/yahya-ahmane-5b8211321](https://www.linkedin.com/in/yahya-ahmane-5b8211321/)
+
+---
+
+<div align="center">
+
+
+</div>
