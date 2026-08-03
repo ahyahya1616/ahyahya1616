@@ -95,10 +95,10 @@ I'm building toward a career centered on cloud infrastructure, automation, and p
 
 <div align="center">
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ahyahya1616&theme=tokyonight)
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahyahya1616&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ahyahya1616&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahyahya1616&theme=tokyonight)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ahyahya1616&theme=tokyonight&utcOffset=1)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ahyahya1616&theme=tokyonight&utcOffset=1)
 
 </div>
 
