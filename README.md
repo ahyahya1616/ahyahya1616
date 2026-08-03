@@ -41,10 +41,12 @@ I'm building toward a career centered on cloud infrastructure, automation, and p
 ![Docker](https://skillicons.dev/icons?i=docker)
 
 **GitOps & CI/CD**
-![ArgoCD](https://raw.githubusercontent.com/cncf/artwork/main/projects/argo/icon/color/argo-icon-color.svg)
-![Jenkins](https://skillicons.dev/icons?i=jenkins)
-![Git](https://skillicons.dev/icons?i=git)
-![GitHub Actions](https://skillicons.dev/icons?i=githubactions)
+
+<img src="https://raw.githubusercontent.com/cncf/artwork/main/projects/argo/icon/color/argo-icon-color.svg" alt="ArgoCD" width="44" height="44" />
+<img src="https://skillicons.dev/icons?i=jenkins" alt="Jenkins" />
+<img src="https://skillicons.dev/icons?i=git" alt="Git" />
+<img src="https://skillicons.dev/icons?i=githubactions" alt="GitHub Actions" />
+
 **Observability & Quality**
 
 ![Prometheus](https://skillicons.dev/icons?i=prometheus)
