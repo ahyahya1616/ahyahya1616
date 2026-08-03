@@ -1,34 +1,69 @@
 <div align="center">
 
-# 👨‍💻 Yahya Ahmane
+# 👋 Hi, I'm Yahya Ahmane
 
-### Software Engineer | Full-Stack Developer | DevOps Enthusiast
+### DevOps Engineer | Cloud & Infrastructure | Software Engineering Student
 
-*Building intelligent systems & scalable solutions*
+*Automating infrastructure, shipping reliable systems, and building on AWS*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yahya-ahmane-5b8211321/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmaneyahya10@gmail.com)
 
 </div>
 
----
+<br>
 
-## 🎓 About Me
+## 🎯 About Me
 
-> Student in **Software Engineering and Intelligent Systems** at **FST Tanger**
+> Software Engineering & Intelligent Systems student at **FST Tanger**, focused on **DevOps** and **Cloud Engineering**
 
-I'm passionate about crafting elegant solutions to complex problems. My journey spans from building intelligent AI systems to architecting scalable cloud-native applications. I believe in continuous learning and turning ideas into impactful software.
+I'm building toward a career centered on cloud infrastructure, automation, and platform reliability. I like taking applications from "it works on my machine" to fully automated, observable, self-healing systems in the cloud.
 
-- 🔭 Currently exploring **Kubernetes orchestration** and **microservices architecture**
-- 🌱 Diving deep into **DevOps practices** and **CI/CD pipelines**
-- 💡 Interested in **AI/ML**, **distributed systems**, and **cloud computing**
-- 🎯 Goal: Contributing to open-source projects and building production-grade applications
+- ☁️ Focused on **AWS** — compute, networking, IAM, and managed services
+- 🔁 Practicing **GitOps** workflows with **ArgoCD** for continuous delivery
+- 🏗️ Provisioning infrastructure with **Terraform** (IaC) and configuring systems with **Ansible**
+- ⚙️ Building **CI/CD pipelines** and containerized, Kubernetes-native applications
+- 🌱 Currently deepening my knowledge of **Kubernetes**, **microservices**, and cloud-native architecture
+- 🎯 Goal: land a DevOps/Cloud role and contribute to open-source infrastructure tooling
 
----
+<br>
 
-## 🛠️ Tech Stack
+## ☁️ DevOps & Cloud Stack
 
-### **Languages**
+<div align="center">
+
+**Cloud & Infrastructure**
+
+![AWS](https://skillicons.dev/icons?i=aws)
+![Terraform](https://skillicons.dev/icons?i=terraform)
+![Ansible](https://skillicons.dev/icons?i=ansible)
+![Kubernetes](https://skillicons.dev/icons?i=kubernetes)
+![Docker](https://skillicons.dev/icons?i=docker)
+
+**GitOps & CI/CD**
+
+![ArgoCD](https://skillicons.dev/icons?i=argocd)
+![Jenkins](https://skillicons.dev/icons?i=jenkins)
+![Git](https://skillicons.dev/icons?i=git)
+![GitHub Actions](https://skillicons.dev/icons?i=githubactions)
+
+**Observability & Quality**
+
+![Prometheus](https://skillicons.dev/icons?i=prometheus)
+![Grafana](https://skillicons.dev/icons?i=grafana)
+![Linux](https://skillicons.dev/icons?i=linux)
+![Bash](https://skillicons.dev/icons?i=bash)
+
+</div>
+
+<br>
+
+## 💻 Development Stack
+
+<div align="center">
+
+**Languages**
+
 ![JavaScript](https://skillicons.dev/icons?i=js)
 ![TypeScript](https://skillicons.dev/icons?i=ts)
 ![Java](https://skillicons.dev/icons?i=java)
@@ -37,63 +72,55 @@ I'm passionate about crafting elegant solutions to complex problems. My journey 
 ![C++](https://skillicons.dev/icons?i=cpp)
 ![PHP](https://skillicons.dev/icons?i=php)
 
-### **Frontend Development**
-![React](https://skillicons.dev/icons?i=react)
-![Angular](https://skillicons.dev/icons?i=angular)
-![Next](https://skillicons.dev/icons?i=nextjs)
+**Frameworks**
 
-### **Backend Development**
 ![Spring Boot](https://skillicons.dev/icons?i=spring)
 ![Express](https://skillicons.dev/icons?i=express)
+![React](https://skillicons.dev/icons?i=react)
+![Next.js](https://skillicons.dev/icons?i=nextjs)
 ![Laravel](https://skillicons.dev/icons?i=laravel)
-![Symfony](https://skillicons.dev/icons?i=symfony)
 
-### **Databases**
+**Databases**
+
 ![MySQL](https://skillicons.dev/icons?i=mysql)
 ![PostgreSQL](https://skillicons.dev/icons?i=postgres)
 ![MongoDB](https://skillicons.dev/icons?i=mongodb)
 ![Firebase](https://skillicons.dev/icons?i=firebase)
 
-### **DevOps & Cloud**
-![Kubernetes](https://skillicons.dev/icons?i=kubernetes)
-![Docker](https://skillicons.dev/icons?i=docker)
-![Jenkins](https://skillicons.dev/icons?i=jenkins)
-![Git](https://skillicons.dev/icons?i=git)
-![Linux](https://skillicons.dev/icons?i=linux)
+</div>
 
-
----
+<br>
 
 ## 📊 GitHub Analytics
 
 <div align="center">
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ahyahya1616&theme=tokyonight)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ahyahya1616&theme=tokyonight&utcOffset=1)
-
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahyahya1616&theme=tokyonight)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ahyahya1616&theme=tokyonight&utcOffset=1)
 
 </div>
 
----
+<br>
 
-## 🚀 What I'm Working On
+## 🚀 Currently Working On
 
-- 🔨 Building microservices with **Spring Boot** and **Kubernetes**
-- 🔐 Implementing security best practices
-- 📦 Setting up **CI/CD pipelines** with **Jenkins** and **SonarQube**
+- 🏗️ Provisioning cloud environments on **AWS** with **Terraform** modules
+- 🔁 Setting up **GitOps** delivery pipelines using **ArgoCD** on Kubernetes
+- 🔧 Automating server configuration with **Ansible** playbooks
+- 📦 Building end-to-end **CI/CD** pipelines (build → test → containerize → deploy)
+- 🔐 Applying cloud security and IAM best practices
 
----
+<br>
 
 ## 💬 Let's Connect
 
-
-📧 **Email:** ahmaneyahya10@gmail.com  
-💼 **LinkedIn:** [linkedin.com/in/yahya-ahmane-5b8211321](https://www.linkedin.com/in/yahya-ahmane-5b8211321/)
-
----
+📧 **Email:** [ahmaneyahya10@gmail.com](mailto:ahmaneyahya10@gmail.com)
+💼 **LinkedIn:** [yahya-ahmane](https://www.linkedin.com/in/yahya-ahmane-5b8211321/)
 
 <div align="center">
 
+⭐️ *Open to DevOps / Cloud Engineering opportunities*
 
 </div>
