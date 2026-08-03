@@ -93,14 +93,10 @@ I'm building toward a career centered on cloud infrastructure, automation, and p
 
 ## 📊 GitHub Analytics
 
-<div align="center">
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ahyahya1616&theme=tokyonight)
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahyahya1616&theme=tokyonight)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ahyahya1616&theme=tokyonight&utcOffset=1)
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ahyahya1616&show_icons=true&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahyahya1616&layout=compact&theme=tokyonight" height="170"/>
+</p>
 
 <br>
 
