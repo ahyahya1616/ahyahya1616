@@ -1,127 +1,124 @@
 <div align="center">
 
-# 👋 Hi, I'm Yahya Ahmane
+<img src="https://skillicons.dev/icons?i=aws,kubernetes,docker,terraform,githubactions,linux" alt="stack"/>
 
-### DevOps Engineer | Cloud & Infrastructure | Software Engineering Student
+<br><br>
 
-*Automating infrastructure, shipping reliable systems, and building on AWS*
+# Hi, I'm Yahya
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yahya-ahmane-5b8211321/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmaneyahya10@gmail.com)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=1B589E&center=true&vCenter=true&width=520&lines=Cloud+%26+DevOps+Engineering+Student;Building+on+AWS+%7C+Kubernetes+%7C+Terraform;Automating+everything+that+shouldn't+be+manual;Open+to+PFE+2027+Internships" alt="Typing SVG" />
 
-</div>
-
-<br>
-
-## 🎯 About Me
-
-> Software Engineering & Intelligent Systems student at **FST Tanger**, focused on **DevOps** and **Cloud Engineering**
-
-I'm building toward a career centered on cloud infrastructure, automation, and platform reliability. I like taking applications from "it works on my machine" to fully automated, observable, self-healing systems in the cloud.
-
-- ☁️ Focused on **AWS** — compute, networking, IAM, and managed services
-- 🔁 Practicing **GitOps** workflows with **ArgoCD** for continuous delivery
-- 🏗️ Provisioning infrastructure with **Terraform** (IaC) and configuring systems with **Ansible**
-- ⚙️ Building **CI/CD pipelines** and containerized, Kubernetes-native applications
-- 🌱 Currently deepening my knowledge of **Kubernetes**, **microservices**, and cloud-native architecture
-- 🎯 Goal: land a DevOps/Cloud role and contribute to open-source infrastructure tooling
-
-<br>
-
-## ☁️ DevOps & Cloud Stack
-
-<div align="center">
-
-**Cloud & Infrastructure**
-
-![AWS](https://skillicons.dev/icons?i=aws)
-![Terraform](https://skillicons.dev/icons?i=terraform)
-![Ansible](https://skillicons.dev/icons?i=ansible)
-![Kubernetes](https://skillicons.dev/icons?i=kubernetes)
-![Docker](https://skillicons.dev/icons?i=docker)
-
-**GitOps & CI/CD**
-
-<img src="https://raw.githubusercontent.com/cncf/artwork/main/projects/argo/icon/color/argo-icon-color.svg" alt="ArgoCD" width="44" height="44" />
-<img src="https://skillicons.dev/icons?i=jenkins" alt="Jenkins" />
-<img src="https://skillicons.dev/icons?i=git" alt="Git" />
-<img src="https://skillicons.dev/icons?i=githubactions" alt="GitHub Actions" />
-
-**Observability & Quality**
-
-![Prometheus](https://skillicons.dev/icons?i=prometheus)
-![Grafana](https://skillicons.dev/icons?i=grafana)
-![Linux](https://skillicons.dev/icons?i=linux)
-![Bash](https://skillicons.dev/icons?i=bash)
+<p>
+  <a href="https://www.linkedin.com/in/yahya-ahmane-5b8211321/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:ahmaneyahya10@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/ahyahya1616"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
 
 </div>
 
 <br>
 
-## 💻 Development Stack
+### About
 
-<div align="center">
+I'm a Software Engineering student based in Morocco, specializing in Cloud and DevOps engineering. I like taking applications from *"works on my laptop"* to fully automated, observable, self-healing systems running in the cloud. Most of my time goes into AWS, Kubernetes, and GitOps pipelines — the rest goes into full-stack projects that need somewhere real to run.
 
-**Languages**
-
-![JavaScript](https://skillicons.dev/icons?i=js)
-![TypeScript](https://skillicons.dev/icons?i=ts)
-![Java](https://skillicons.dev/icons?i=java)
-![Python](https://skillicons.dev/icons?i=python)
-![C](https://skillicons.dev/icons?i=c)
-![C++](https://skillicons.dev/icons?i=cpp)
-![PHP](https://skillicons.dev/icons?i=php)
-
-**Frameworks**
-
-![Spring Boot](https://skillicons.dev/icons?i=spring)
-![Express](https://skillicons.dev/icons?i=express)
-![React](https://skillicons.dev/icons?i=react)
-![Next.js](https://skillicons.dev/icons?i=nextjs)
-![Laravel](https://skillicons.dev/icons?i=laravel)
-
-**Databases**
-
-![MySQL](https://skillicons.dev/icons?i=mysql)
-![PostgreSQL](https://skillicons.dev/icons?i=postgres)
-![MongoDB](https://skillicons.dev/icons?i=mongodb)
-![Firebase](https://skillicons.dev/icons?i=firebase)
-
-</div>
+```yaml
+role: Cloud & DevOps Engineering Student
+focus: [AWS, Kubernetes, Terraform, GitOps, Observability]
+looking_for: PFE 2027 internship — Cloud / DevOps / SRE
+based_in: Morocco
+```
 
 <br>
 
-## 📊 GitHub Analytics
+### Tech Stack
+
+<table>
+<tr><td><b>Cloud</b></td><td>
+<img src="https://skillicons.dev/icons?i=aws,cloudflare" height="34"/>
+<img src="https://img.shields.io/badge/OVHcloud-123F6D?style=flat-square&logo=ovh&logoColor=white" height="30"/>
+</td></tr>
+<tr><td><b>Containers &amp; Orchestration</b></td><td>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes" height="34"/>
+<img src="https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white" height="30"/>
+</td></tr>
+<tr><td><b>CI/CD &amp; GitOps</b></td><td>
+<img src="https://skillicons.dev/icons?i=githubactions,jenkins,git" height="34"/>
+<img src="https://raw.githubusercontent.com/cncf/artwork/main/projects/argo/icon/color/argo-icon-color.svg" height="34"/>
+</td></tr>
+<tr><td><b>IaC &amp; Security</b></td><td>
+<img src="https://skillicons.dev/icons?i=terraform" height="34"/>
+<img src="https://img.shields.io/badge/Vault-000000?style=flat-square&logo=vault&logoColor=white" height="30"/>
+<img src="https://img.shields.io/badge/AWS%20IAM-232F3E?style=flat-square&logo=amazoniam&logoColor=white" height="30"/>
+</td></tr>
+<tr><td><b>Observability</b></td><td>
+<img src="https://skillicons.dev/icons?i=prometheus,grafana" height="34"/>
+<img src="https://img.shields.io/badge/CloudWatch-FF4F8B?style=flat-square&logo=amazoncloudwatch&logoColor=white" height="30"/>
+</td></tr>
+<tr><td><b>Languages</b></td><td>
+<img src="https://skillicons.dev/icons?i=java,js,ts,python,php,c,cpp" height="34"/>
+</td></tr>
+<tr><td><b>Frameworks</b></td><td>
+<img src="https://skillicons.dev/icons?i=spring,react,nextjs,angular,laravel,express" height="34"/>
+</td></tr>
+<tr><td><b>Databases</b></td><td>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis" height="34"/>
+</td></tr>
+</table>
+
+<br>
+
+### Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**Decentralized Real Estate Rental Platform**
+
+Microservices app for secure rental transactions — Spring Boot + Angular backend/frontend, Ethereum smart contracts via Hardhat, deployed on AWS with Terraform-provisioned infra, Kubernetes orchestration, and a Jenkins/GitHub Actions pipeline monitored with Prometheus + Grafana.
+
+`Spring Boot` `Angular` `Ethereum` `Kubernetes` `Terraform` `AWS`
+
+</td>
+<td width="50%" valign="top">
+
+**MLOps & Product Intelligence Platform**
+
+End-to-end MLOps pipeline on Kubeflow/Kubernetes automating model training, validation, and deployment, fed by distributed scraping agents that clean and store data for reproducible ML datasets.
+
+`Kubeflow` `Kubernetes` `Python` `Docker` `MLOps`
+
+</td>
+</tr>
+</table>
+
+<br>
+
+### GitHub Stats
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ahyahya1616&theme=tokyonight" height="165"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ahyahya1616&theme=tokyonight" height="165"/>
+</p>
 
 
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ahyahya1616&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=ahyahya1616&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahyahya1616&theme=tokyo-night&hide_border=true" />
+<img src="https://ghchart.rshah.org/1B589E/ahyahya1616" alt="ahyahya1616's GitHub contribution chart"/>
 </p>
 
 <br>
 
-## 🚀 Currently Working On
-
-- 🏗️ Provisioning cloud environments on **AWS** with **Terraform** modules
-- 🔁 Setting up **GitOps** delivery pipelines using **ArgoCD** on Kubernetes
-- 🔧 Automating server configuration with **Ansible** playbooks
-- 📦 Building end-to-end **CI/CD** pipelines (build → test → containerize → deploy)
-- 🔐 Applying cloud security and IAM best practices
-
-<br>
-
-## 💬 Let's Connect
-
-📧 **Email:** [ahmaneyahya10@gmail.com](mailto:ahmaneyahya10@gmail.com)
-💼 **LinkedIn:** [yahya-ahmane](https://www.linkedin.com/in/yahya-ahmane-5b8211321/)
-
 <div align="center">
 
-⭐️ *Open to DevOps / Cloud Engineering opportunities*
+**Currently looking for a PFE 2027 internship in Cloud Engineering / DevOps / SRE — let's talk.**
+
+<a href="mailto:ahmaneyahya10@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/yahya-ahmane-5b8211321/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 </div>
