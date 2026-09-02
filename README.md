@@ -108,9 +108,7 @@ End-to-end MLOps pipeline on Kubeflow/Kubernetes automating model training, vali
 <img src="https://streak-stats.demolab.com?user=ahyahya1616&theme=tokyonight&hide_border=true"/>
 </p>
 
-<p align="center">
-<img src="https://ghchart.rshah.org/1B589E/ahyahya1616" alt="ahyahya1616's GitHub contribution chart"/>
-</p>
+
 
 <br>
 
