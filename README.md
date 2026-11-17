@@ -1,119 +1,102 @@
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=aws,kubernetes,docker,terraform,githubactions,linux" alt="stack"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1B589E,100:0d1117&height=200&section=header&text=Yahya%20Ahmane&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=I%20build%20infrastructure%20that%20doesn%27t%20break%20at%203am&descSize=16&descAlignY=58&descColor=8b949e" width="100%"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&pause=1200&color=1B589E&center=true&vCenter=true&width=580&lines=Cloud+%26+DevOps+%7C+AWS+%C2%B7+Kubernetes+%C2%B7+Terraform;Shipping+infra+as+code%2C+not+prayers;Security+baked+in%2C+not+bolted+on;GitOps+%7C+DevSecOps+%7C+Observability" alt="Typing SVG" />
 
 <br><br>
 
-# Hi, I'm Yahya
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=1B589E&center=true&vCenter=true&width=520&lines=Cloud+%26+DevOps+Engineering+Student;Building+on+AWS+%7C+Kubernetes+%7C+Terraform;Automating+everything+that+shouldn't+be+manual;Open+to+PFE+2027+Internships" alt="Typing SVG" />
-
-<p>
-  <a href="https://www.linkedin.com/in/yahya-ahmane-5b8211321/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:ahmaneyahya10@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p>
+<a href="https://www.linkedin.com/in/yahya-ahmane-5b8211321/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
+&nbsp;
+<a href="mailto:ahmaneyahya10@gmail.com"><img src="https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
+&nbsp;
+<a href="https://github.com/estate-rental-to-apply-devops"><img src="https://img.shields.io/badge/-@estate--rental--devops-181717?style=flat-square&logo=github&logoColor=white"/></a>
 
 </div>
 
 <br>
 
-### About
-
-I'm a Software Engineering student based in Morocco, specializing in Cloud and DevOps engineering. I like taking applications from *"works on my laptop"* to fully automated, observable, self-healing systems running in the cloud. Most of my time goes into AWS, Kubernetes, and GitOps pipelines — the rest goes into full-stack projects that need somewhere real to run.
-
-```yaml
-role: Cloud & DevOps Engineering Student
-focus: [AWS, Kubernetes, Terraform, GitOps, Observability]
-looking_for: PFE 2027 internship — Cloud / DevOps / SRE
-based_in: Morocco
+```
+Morocco-based Software Engineering student.
+I spend most of my time turning "it works locally" into 
+production-grade systems — automated, observable, and secure.
+AWS · Kubernetes · Terraform · GitOps · DevSecOps
 ```
 
-<br>
+---
 
-### Tech Stack
-
-<table>
-<tr><td><b>Cloud</b></td><td>
-<img src="https://skillicons.dev/icons?i=aws,cloudflare" height="34"/>
-<img src="https://img.shields.io/badge/OVHcloud-123F6D?style=flat-square&logo=ovh&logoColor=white" height="30"/>
-</td></tr>
-<tr><td><b>Containers &amp; Orchestration</b></td><td>
-<img src="https://skillicons.dev/icons?i=docker,kubernetes" height="34"/>
-<img src="https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white" height="30"/>
-</td></tr>
-<tr><td><b>CI/CD &amp; GitOps</b></td><td>
-<img src="https://skillicons.dev/icons?i=githubactions,jenkins,git" height="34"/>
-<img src="https://raw.githubusercontent.com/cncf/artwork/main/projects/argo/icon/color/argo-icon-color.svg" height="34"/>
-</td></tr>
-<tr><td><b>IaC &amp; Security</b></td><td>
-<img src="https://skillicons.dev/icons?i=terraform" height="34"/>
-<img src="https://img.shields.io/badge/Vault-000000?style=flat-square&logo=vault&logoColor=white" height="30"/>
-<img src="https://img.shields.io/badge/AWS%20IAM-232F3E?style=flat-square&logo=amazoniam&logoColor=white" height="30"/>
-</td></tr>
-<tr><td><b>Observability</b></td><td>
-<img src="https://skillicons.dev/icons?i=prometheus,grafana" height="34"/>
-<img src="https://img.shields.io/badge/CloudWatch-FF4F8B?style=flat-square&logo=amazoncloudwatch&logoColor=white" height="30"/>
-</td></tr>
-<tr><td><b>Languages</b></td><td>
-<img src="https://skillicons.dev/icons?i=java,js,ts,python,php,c,cpp" height="34"/>
-</td></tr>
-<tr><td><b>Frameworks</b></td><td>
-<img src="https://skillicons.dev/icons?i=spring,react,nextjs,angular,laravel,express" height="34"/>
-</td></tr>
-<tr><td><b>Databases</b></td><td>
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis" height="34"/>
-</td></tr>
-</table>
+## 🔭 What I've built
 
 <br>
 
-### Featured Projects
+### 🏡 &nbsp; Decentralized Real Estate Rental Platform &nbsp;→&nbsp; [`@estate-rental-to-apply-devops`](https://github.com/estate-rental-to-apply-devops)
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<img align="right" src="https://img.shields.io/badge/status-active-22c55e?style=flat-square"/>
 
-**Decentralized Real Estate Rental Platform**
+A full cloud-native platform where people rent properties — secured by Ethereum, deployed on AWS EKS, and delivered through a full GitOps pipeline.
 
-Microservices app for secure rental transactions — Spring Boot + Angular backend/frontend, Ethereum smart contracts via Hardhat, deployed on AWS with Terraform-provisioned infra, Kubernetes orchestration, and a Jenkins/GitHub Actions pipeline monitored with Prometheus + Grafana.
+```
+Spring Boot microservices  ·  Angular 19 + Ethers.js  ·  Solidity smart contracts
+Terraform (VPC · EKS · RDS · ECR · IRSA)  ·  Jenkins  ·  ArgoCD  ·  Kafka
+```
 
-`Spring Boot` `Angular` `Ethereum` `Kubernetes` `Terraform` `AWS`
-
-</td>
-<td width="50%" valign="top">
-
-**MLOps & Product Intelligence Platform**
-
-End-to-end MLOps pipeline on Kubeflow/Kubernetes automating model training, validation, and deployment, fed by distributed scraping agents that clean and store data for reproducible ML datasets.
-
-`Kubeflow` `Kubernetes` `Python` `Docker` `MLOps`
-
-</td>
-</tr>
-</table>
+| Layer | Repos |
+|:---|:---|
+| Infrastructure | [`terraform_infra`](https://github.com/estate-rental-to-apply-devops/terraform_infra) · [`gitops-infrastructure-rental-estate`](https://github.com/estate-rental-to-apply-devops/gitops-infrastructure-rental-estate) |
+| Services | [`gateway-service`](https://github.com/estate-rental-to-apply-devops/gateway-service) · [`authorization-estate-renatl-service`](https://github.com/estate-rental-to-apply-devops/authorization-estate-renatl-service) · [`property_management_service`](https://github.com/estate-rental-to-apply-devops/property_management_service) · [`rental_agreement_service`](https://github.com/estate-rental-to-apply-devops/rental_agreement_service) · [`user-management-estate-rental-service`](https://github.com/estate-rental-to-apply-devops/user-management-estate-rental-service) |
+| Frontend | [`frontend`](https://github.com/estate-rental-to-apply-devops/frontend) |
+| Config | [`config-service-rental-estate`](https://github.com/estate-rental-to-apply-devops/config-service-rental-estate) · [`shared-library-estate-rental`](https://github.com/estate-rental-to-apply-devops/shared-library-estate-rental) |
 
 <br>
 
-### GitHub Stats
+---
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ahyahya1616&theme=tokyonight" height="165"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ahyahya1616&theme=tokyonight" height="165"/>
-</p>
+### 🤖 &nbsp; DevSecOps MLOps Platform on AWS EKS
 
+<img align="right" src="https://img.shields.io/badge/status-active-22c55e?style=flat-square"/>
 
+Kubeflow running on **AWS EKS** with security enforced at every layer — from the CI pipeline down to the kernel. The project is split across three repos with clear separation of concerns: infra, workload manifests, and the data agents themselves.
 
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=ahyahya1616&theme=tokyonight&hide_border=true"/>
-</p>
+```
+Terraform (IaC) · Kubeflow · Kubernetes RBAC · Network Policies
+Kyverno (admission control) · Trivy (image scanning) · IAM least-privilege · IRSA
+Python data agents · Docker · AWS EKS
+```
 
-
+| Repo | Role |
+|:---|:---|
+| [`mlops_infrastructure`](https://github.com/ahyahya1616/mlops_infrastructure) | Terraform — provisions EKS cluster, VPC, IAM roles, IRSA |
+| [`mlops_k8s_manifests`](https://github.com/ahyahya1616/mlops_k8s_manifests) | Kubernetes manifests — Kubeflow, RBAC, Network Policies, namespaces |
+| [`devsecops-data-factory`](https://github.com/ahyahya1616/devsecops-data-factory) | Python data agents — Zero-Trust, Trivy scanning in CI, Kyverno admission gate |
 
 <br>
+
+---
+
+## 📊 &nbsp; Stats
 
 <div align="center">
 
-**Currently looking for a PFE 2027 internship in Cloud Engineering / DevOps / SRE — let's talk.**
+<img src="https://github-readme-stats.vercel.app/api?username=ahyahya1616&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&hide=prs" height="150"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahyahya1616&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="150"/>
 
+<br>
+
+<img src="https://streak-stats.demolab.com?user=ahyahya1616&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<sub>Looking for a PFE 2027 internship in Cloud / DevOps / SRE — <a href="mailto:ahmaneyahya10@gmail.com">let's talk</a>.</sub>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1B589E,100:0d1117&height=100&section=footer" width="100%"/>
 
 </div>
